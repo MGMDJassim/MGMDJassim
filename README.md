@@ -1,6 +1,6 @@
 # Bienvenue sur mon profil GitHub!
 
-Salut! Je suis [Ton Nom], un(e) développeur(euse) passionné(e) par la technologie et l'innovation. Voici un aperçu de ce que tu trouveras sur mon profil :
+Salut! Je suis Jassim, un développeur passionné par la technologie et l'innovation. Voici un aperçu de ce que tu trouveras sur mon profil :
 
 ## 🌟 Compétences
 
