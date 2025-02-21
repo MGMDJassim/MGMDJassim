@@ -1,16 +1,28 @@
-## Hi there 👋
+# Bienvenue sur mon profil GitHub!
 
-<!--
-**MGMDJassim/MGMDJassim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Salut! Je suis [Ton Nom], un(e) développeur(euse) passionné(e) par la technologie et l'innovation. Voici un aperçu de ce que tu trouveras sur mon profil :
 
-Here are some ideas to get you started:
+## 🌟 Compétences
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Langages de programmation** : JavaScript, Python, Java, C, OCaml
+- **Frameworks** : React.js
+- **Bases de données** : MySQL, PostgreSQL,
+- **Outils** : Git,
+
+## 📚 Projets
+
+### Projet 1 : Projet Hotel
+- **Description** : Logiciel de gestion du personnel et des chambre d'hôtel
+- **Technologies utilisées** : Java, la  Programmation Orientée Objet
+
+### Projet 2 : Projet Intelligence artificielle
+- **Description** : Programmation d'une IA qui résoud le problème du commerçant voyageur
+- **Technologies utilisées** : Python
+
+## 🚀 À propos de moi
+Je suis actuellement étudiant en licence double dilpôme droit et informatique à l'Université Paris Saclay. Je cherche un stage de minimum un mois à partie du 28 avril 2025 en informatique, plus précisement dans le développement.
+
+## 📫 Me contacter
+
+- **Email** : jassim91@outlook.fr
+
